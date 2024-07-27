@@ -12,8 +12,8 @@
 }
 
 .choice {
-    height: 200px;
-    width: 200px;
+    height: 170px;
+    width: 170px;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -29,7 +29,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 6rem;
+    margin-top: 3rem;
     gap: 3rem;
 }
 
